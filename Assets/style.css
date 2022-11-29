@@ -1,0 +1,66 @@
+.jumbotron{
+    background-color: rgb(27, 27,81);
+    color:aliceblue;
+}
+
+.contact{
+    background-color: rgb(27, 27, 81);
+    color:aliceblue;
+    text-align: center;
+
+}
+
+.nav{
+    color:aliceblue;
+    /* background-color: black; */
+
+}
+
+a {
+    text-decoration: none;
+    color: #FDF8F5;
+  }
+
+li {
+    display: inline;
+    padding: 0px 20px;
+    text-decoration: none;
+  }
+  
+  body {
+    position: relative;
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    font-size: 20px;
+    background-color: #FDF8F5;
+    color: #141414;
+  }
+
+  .myWork{
+    background-color:rgb(245, 245, 246) ;
+    color:rgb(12, 12, 12);
+    /* margin: 10px */
+  }
+
+  .movN{
+    background-color:rgb(27, 27, 81) ;
+    color:aliceblue;
+     margin: 20px; 
+    /* margin-top: 5px;
+    margin-bottom: 5px;
+     margin-right: 20px; 
+    margin-left: 5px; */
+   
+    text-align: center;
+  }
+
+  .movNi{
+    background-color:rgb(240, 240, 245) ;
+    color:rgb(7, 8, 8);
+     margin: 20px; 
+    /* margin-top: 5px;
+    margin-bottom: 5px;
+     margin-right: 20px; 
+    margin-left: 5px; */
+   
+    text-align: center;
+  }
